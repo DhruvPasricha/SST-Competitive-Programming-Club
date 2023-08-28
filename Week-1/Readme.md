@@ -1,20 +1,26 @@
 # Week - 1
 
-- This week will be focused on general problem solving. We will also cover some important concepts like Prefix Sums, Difference Array and Frequency Array.
+<img src="../Assets/cover.jpeg" height="370px" width="800px">
 
-- If you want to switch to C++, for now learn the following:
-    - Input / Output
-    - Data types
-    - Variables
-    - Conditionals
-    - Loops
-    - Arrays
-    - Functions
+## Topics
+- `General Problem Solving`
+- `Bit Manipulation`
+- `Prefix Sums`
+- `Difference Arrays`
 
-You can use the below resources to get started with C++.
+## Problems
+- [Day - 1](./Day-1.md)
 
-# Resources
+## C++ Transition
+If you're switching to C++, you can start with:
+- Input / Output
+- Data types
+- Variables
+- Conditionals
+- Loops
+- Arrays / Vectors
+- Functions
 
-- C++
-    - [Scaler Topics](https://www.scaler.com/topics/cpp/)
-    - [W3Schools](https://www.w3schools.com/cpp/default.asp)
+Recommended resources for C++: 
+- [Text](https://www.scaler.com/topics/cpp/)
+- [Video](https://www.scaler.com/topics/course/cpp-beginners/)
