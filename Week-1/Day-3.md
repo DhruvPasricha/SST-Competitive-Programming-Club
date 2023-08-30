@@ -1,0 +1,1 @@
+[CodeChef Long Challenge](https://www.codechef.com/AUG23)

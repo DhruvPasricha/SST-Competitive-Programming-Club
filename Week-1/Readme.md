@@ -11,6 +11,7 @@
 ## Problems
 - [Day - 1](./Day-1.md)
 - [Day - 2](./Day-2.md)
+- [Day - 3](./Day-3.md)
 
 ## C++ Transition
 If you're switching to C++, you can start with:
