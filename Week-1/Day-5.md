@@ -1,0 +1,1 @@
+[AtCoder Beginner Contest](https://atcoder.jp/contests/abc318)

@@ -4,9 +4,7 @@
 
 ## Topics
 - `General Problem Solving`
-- `Bit Manipulation`
 - `Prefix Sums`
-- `Difference Arrays`
 
 ## Resources
 - Text
@@ -19,7 +17,7 @@
 - [Day - 2](./Day-2.md)
 - [Day - 3](./Day-3.md)
 - [Day - 4](./Day-4.md)
-
+- [Day - 5](./Day-5.md)
 ## C++ Transition
 If you're switching to C++, you can start with:
 - Input / Output
