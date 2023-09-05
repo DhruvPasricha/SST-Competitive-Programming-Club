@@ -4,7 +4,8 @@
 
 ## Topics
 - `Prefix Sums`
-- `Difference Arrays`
+- `Difference Array`
+- `Frequency Array`
 
 ## Resources
 - Text
