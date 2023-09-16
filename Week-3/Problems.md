@@ -13,3 +13,6 @@
 |11| [Boxes Packing](https://codeforces.com/contest/903/problem/C)
 |12| [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
 |13| [Registration system](https://codeforces.com/contest/4/problem/C)
+|14| [Two Sum](https://leetcode.com/problems/two-sum/)
+|15| [Subarray Sums - II](https://cses.fi/problemset/task/1661)
+|16| [Subarray Divisibilty](https://cses.fi/problemset/task/1662)
